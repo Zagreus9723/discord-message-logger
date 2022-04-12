@@ -1,0 +1,2 @@
+-Install discord.py-self
+-Put in the webhooks and your token
